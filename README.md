@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Palak Yadav 👋
 
-<!--
-**Palak063/Palak063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student  
+💻 Aspiring Frontend Developer  
+🌱 Learning React, Python and AI/ML  
+🚀 Interested in building real-world projects.
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- Basic Python
+- MS Excel
+- MS Word
+- Learning React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Weather Project
+- Personal Financial Management Project
+
+## Currently Learning
+- React.js
+- JavaScript
+- REST APIs
+- Git & GitHub
+
+## Connect with me
+- GitHub: https://github.com/Palak063
+-
